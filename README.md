@@ -10,7 +10,7 @@ go build cominterest.go
 
 TODO
 
-A lot!
+A lot! :-O
 
 Improve output
 
